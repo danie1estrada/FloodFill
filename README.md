@@ -1,5 +1,8 @@
 # FloodFill
 
+## Result:
+<img src="/flood_fill.gif" width="300px" />
+
 ## Pending 
 ### 1. Calculate the row and column given the position
 Given the position of a element in a RecyclerView, calculate its index for row and column on a GridLayout.
@@ -57,5 +60,3 @@ suspend fun floodFill(row: Int, column: Int) {
     }
 }
 ```
-
-## Result:
